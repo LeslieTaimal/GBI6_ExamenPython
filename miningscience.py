@@ -45,22 +45,22 @@ def mining_pubs(tipo, keyword):
         PMID = PMID.split("PMID- ")
         year = re.findall("DP\s{2}-\s(\d{4})", my_text)
         pmid_year = pd.DataFrame()
-        pmid_year["PMID"] = PMID
         pmid_year["Año de publicación"] = year
-        return (pmid_y)
+        pmid_year["PMID"] = PMID 
+        return (pmid_year)
     elif tipo == "AU": 
         PMID = re.findall("PMID- (\d*)", my_text) 
-        autors = texto.split("PMID- ")
+        autors = my_text.split("PMID- ")
         autors.pop(0)
         num_autors = []
-        for i in range(len(autores)):
-            num_total = re.findall("AU -", autores[i])
+        for i in range(len(autors)):
+            num_total = re.findall("AU -", autors[i])
             n = (len(num_total))
             num_autors.append(n)
         PMID_autors = pd.DataFrame()
         PMID_autors["PMID"] = PMID 
-        pmid_autors["Numero de autores"] = num_autors
-        return (pmid_a)
+        PMID_autors["Numero de autores"] = num_autors
+        return (PMID_autors)
     elif tipo == "AD": 
         text = re.sub(r" [A-Z]{1}\.","", my_text)
         text = re.sub(r"Av\.","", my_text)
@@ -84,11 +84,3 @@ def mining_pubs(tipo, keyword):
         count_pais["pais"] = result.keys()
         count_pais["numero de autores"] = result.values()
         return (count_pais)
-    
-    
-    
-    
-
-            
-    
-    

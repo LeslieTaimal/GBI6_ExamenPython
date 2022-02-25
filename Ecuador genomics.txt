@@ -112,8 +112,9 @@ SO  - Trends Cardiovasc Med. 2022 Feb 2. pii: S1050-1738(22)00015-9. doi:
 
 PMID- 35120121
 OWN - NLM
-STAT- In-Data-Review
-LR  - 20220218
+STAT- MEDLINE
+DCOM- 20220224
+LR  - 20220224
 IS  - 1553-7404 (Electronic)
 IS  - 1553-7390 (Linking)
 VI  - 18
@@ -143,7 +144,7 @@ AB  - Accurate prediction of vectors dispersal, as well as identification of
       approaches.
 FAU - Hernandez-Castro, Luis E
 AU  - Hernandez-Castro LE
-AUID- ORCID: https://orcid.org/0000-0002-2342-1655
+AUID- ORCID: 0000-0002-2342-1655
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 AD  - The Epidemiology, Economics and Risk Assessment Group, The Roslin Institute,
@@ -154,24 +155,24 @@ AD  - Centro de Investigacion para la Salud en America Latina, Facultad de Cienc
       Exactas y Naturales, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador.
 FAU - Jacobs, Arne
 AU  - Jacobs A
-AUID- ORCID: https://orcid.org/0000-0001-7635-5447
+AUID- ORCID: 0000-0001-7635-5447
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 AD  - Department of Natural Resources and the Environment, Cornell University, Ithaca, 
       New York, United States of America.
 FAU - Cheaib, Bachar
 AU  - Cheaib B
-AUID- ORCID: https://orcid.org/0000-0002-0325-823X
+AUID- ORCID: 0000-0002-0325-823X
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 FAU - Day, Casey C
 AU  - Day CC
-AUID- ORCID: https://orcid.org/0000-0001-6096-3448
+AUID- ORCID: 0000-0001-6096-3448
 AD  - Computational Ecology Lab, School of Public and Community Health Sciences,
       University of Montana, Missoula, Montana, United States of America.
 FAU - Ocana-Mayorga, Sofia
 AU  - Ocana-Mayorga S
-AUID- ORCID: https://orcid.org/0000-0003-3861-9784
+AUID- ORCID: 0000-0003-3861-9784
 AD  - Centro de Investigacion para la Salud en America Latina, Facultad de Ciencias
       Exactas y Naturales, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador.
 FAU - Yumiseva, Cesar A
@@ -180,39 +181,39 @@ AD  - Centro de Investigacion para la Salud en America Latina, Facultad de Cienc
       Exactas y Naturales, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador.
 FAU - Bacigalupo, Antonella
 AU  - Bacigalupo A
-AUID- ORCID: https://orcid.org/0000-0003-1661-8916
+AUID- ORCID: 0000-0003-1661-8916
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 FAU - Andersson, Bjorn
 AU  - Andersson B
-AUID- ORCID: https://orcid.org/0000-0002-4624-0259
+AUID- ORCID: 0000-0002-4624-0259
 AD  - Department of Cell and Molecular Biology, Karolinska Institutet, Stockholm,
       Sweden.
 FAU - Matthews, Louise
 AU  - Matthews L
-AUID- ORCID: https://orcid.org/0000-0003-4420-8367
+AUID- ORCID: 0000-0003-4420-8367
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 FAU - Landguth, Erin L
 AU  - Landguth EL
-AUID- ORCID: https://orcid.org/0000-0002-7044-346X
+AUID- ORCID: 0000-0002-7044-346X
 AD  - Computational Ecology Lab, School of Public and Community Health Sciences,
       University of Montana, Missoula, Montana, United States of America.
 AD  - Center for Population Health Research, School of Public and Community Health
       Sciences, University of Montana, Missoula, Montana, United States of America.
 FAU - Costales, Jaime A
 AU  - Costales JA
-AUID- ORCID: https://orcid.org/0000-0001-9418-6640
+AUID- ORCID: 0000-0001-9418-6640
 AD  - Centro de Investigacion para la Salud en America Latina, Facultad de Ciencias
       Exactas y Naturales, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador.
 FAU - Llewellyn, Martin S
 AU  - Llewellyn MS
-AUID- ORCID: https://orcid.org/0000-0001-9856-1591
+AUID- ORCID: 0000-0001-9856-1591
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 FAU - Grijalva, Mario J
 AU  - Grijalva MJ
-AUID- ORCID: https://orcid.org/0000-0003-1964-1425
+AUID- ORCID: 0000-0003-1964-1425
 AD  - Centro de Investigacion para la Salud en America Latina, Facultad de Ciencias
       Exactas y Naturales, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador.
 AD  - Infectious and Tropical Disease Institute, Department of Biomedical Sciences,
@@ -222,22 +223,40 @@ LA  - eng
 GR  - P20 GM130418/GM/NIGMS NIH HHS/United States
 GR  - R15 AI105749/AI/NIAID NIH HHS/United States
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20220204
 PL  - United States
 TA  - PLoS Genet
 JT  - PLoS genetics
 JID - 101239074
 SB  - IM
+MH  - Adaptation, Biological/genetics
+MH  - Animals
+MH  - Chagas Disease/*epidemiology/*genetics
+MH  - Disease Vectors
+MH  - Ecosystem
+MH  - Ecuador/epidemiology
+MH  - Gene Expression/genetics
+MH  - Gene Expression Profiling/methods
+MH  - Gene Flow
+MH  - Insect Vectors/genetics
+MH  - Metagenomics/methods
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - Population Density
+MH  - Rhodnius/*genetics/pathogenicity
+MH  - Transcriptome/genetics
+MH  - Trypanosoma cruzi/genetics
 PMC - PMC8849464
 COIS- The authors have declared that no competing interests exist.
 EDAT- 2022/02/05 06:00
-MHDA- 2022/02/05 06:00
+MHDA- 2022/02/25 06:00
 CRDT- 2022/02/04 17:11
 PHST- 2021/07/12 00:00 [received]
 PHST- 2022/01/06 00:00 [accepted]
 PHST- 2022/02/16 00:00 [revised]
 PHST- 2022/02/05 06:00 [pubmed]
-PHST- 2022/02/05 06:00 [medline]
+PHST- 2022/02/25 06:00 [medline]
 PHST- 2022/02/04 17:11 [entrez]
 AID - 10.1371/journal.pgen.1010019 [doi]
 AID - PGENETICS-D-21-00937 [pii]
@@ -1208,64 +1227,66 @@ SO  - An Acad Bras Cienc. 2022 Jan 17;94(1):e20191254. doi:
 
 PMID- 35018222
 OWN - NLM
-STAT- Publisher
-LR  - 20220112
+STAT- PubMed-not-MEDLINE
+LR  - 20220224
 IS  - 2052-2975 (Print)
 IS  - 2052-2975 (Linking)
-DP  - 2022 Jan 7
+VI  - 45
+DP  - 2022 Jan
 TI  - First detection of SARS-CoV-2 variant B.1.1.529 (Omicron) in Ecuador.
 PG  - 100951
 LID - 10.1016/j.nmni.2022.100951 [doi]
 AB  - The National Institute of Research and Public Health reported the first local
       record of the Omicron variant detected in Ecuador. A fully vaccinated subject
       returned from South Africa with a negative RT-PCR. We present the cumulative
-      frequency of the variants in Ecuador and the Phylogeny of this new Omicron.
-CI  - (c) 2022 Published by Elsevier Ltd.
-FAU - Carrazco-Montalvo, Andres
+      frequency of the variants in Ecuador and a phylogenetic analysis of this new
+      Omicron.
+CI  - (c) 2022 The Authors.
+FAU - Carrazco-Montalvo, A
 AU  - Carrazco-Montalvo A
-AD  - Direccion de Investigacion, Desarrollo e Innovacion. Instituto Nacional de
+AD  - Direccion de Investigacion, Desarrollo e Innovacion, Instituto Nacional de
       Investigacion en Salud Publica "Leopoldo Izquieta Perez", Guayaquil, Ecuador.
-FAU - Armendariz-Castillo, Isaac
+FAU - Armendariz-Castillo, I
 AU  - Armendariz-Castillo I
-AD  - Coordinacion Zonal 9. Instituto Nacional de investigacion en Salud Publica
+AD  - Coordinacion Zonal 9, Instituto Nacional de Investigacion en Salud Publica
       "Leopoldo Izquieta Perez", Quito, Ecuador.
-FAU - Tello, Clara Lucia
+FAU - Tello, C L
 AU  - Tello CL
-AD  - Direccion de Investigacion, Desarrollo e Innovacion. Instituto Nacional de
+AD  - Direccion de Investigacion, Desarrollo e Innovacion, Instituto Nacional de
       Investigacion en Salud Publica "Leopoldo Izquieta Perez", Guayaquil, Ecuador.
-FAU - Morales, Diego
+FAU - Morales, D
 AU  - Morales D
-AD  - Centro de Referencia Nacional de Influenza y otros Virus Respiratorios. Instituto
+AD  - Centro de Referencia Nacional de Influenza y Otros Virus Respiratorios, Instituto
       Nacional de Investigacion en Salud Publica "Leopoldo Izquieta Perez", Guayaquil, 
       Ecuador.
-FAU - Armas-Gonzalez, Ruben
+FAU - Armas-Gonzalez, R
 AU  - Armas-Gonzalez R
-AD  - Centro de Referencia Nacional de Influenza y otros Virus Respiratorios. Instituto
+AD  - Centro de Referencia Nacional de Influenza y Otros Virus Respiratorios, Instituto
       Nacional de Investigacion en Salud Publica "Leopoldo Izquieta Perez", Guayaquil, 
       Ecuador.
-FAU - Guizado-Herrera, David
+FAU - Guizado-Herrera, D
 AU  - Guizado-Herrera D
-AD  - Direccion de Investigacion, Desarrollo e Innovacion. Instituto Nacional de
+AD  - Direccion de Investigacion, Desarrollo e Innovacion, Instituto Nacional de
       Investigacion en Salud Publica "Leopoldo Izquieta Perez", Guayaquil, Ecuador.
-FAU - Leon-Sosa, Ariana
+FAU - Leon-Sosa, A
 AU  - Leon-Sosa A
-AD  - Direccion de Investigacion, Desarrollo e Innovacion. Instituto Nacional de
+AD  - Direccion de Investigacion, Desarrollo e Innovacion, Instituto Nacional de
       Investigacion en Salud Publica "Leopoldo Izquieta Perez", Guayaquil, Ecuador.
-FAU - Ramos-Sarmiento, Daniel
+FAU - Ramos-Sarmiento, D
 AU  - Ramos-Sarmiento D
-AD  - Centro de Referencia Nacional de Influenza y otros Virus Respiratorios. Instituto
+AD  - Centro de Referencia Nacional de Influenza y Otros Virus Respiratorios, Instituto
       Nacional de Investigacion en Salud Publica "Leopoldo Izquieta Perez", Guayaquil, 
       Ecuador.
-FAU - Fuertes, Byron
+FAU - Fuertes, B
 AU  - Fuertes B
-AD  - Centro de Referencia Nacional de Influenza y otros Virus Respiratorios. Instituto
+AD  - Centro de Referencia Nacional de Influenza y Otros Virus Respiratorios, Instituto
       Nacional de Investigacion en Salud Publica "Leopoldo Izquieta Perez", Guayaquil, 
       Ecuador.
-FAU - Patino, Leandro
-AU  - Patino L
-AD  - Direccion de Investigacion, Desarrollo e Innovacion. Instituto Nacional de
-      Investigacion en Salud Publica "Leopoldo Izquieta Perez", Guayaquil, Ecuador.
 CN  - USFQ-Consortium
+FAU - Patino, L
+AU  - Patino L
+AD  - Direccion de Investigacion, Desarrollo e Innovacion, Instituto Nacional de
+      Investigacion en Salud Publica "Leopoldo Izquieta Perez", Guayaquil, Ecuador.
 LA  - eng
 PT  - Case Reports
 DEP - 20220107
@@ -1276,42 +1297,43 @@ JID - 101624750
 PMC - PMC8739794
 OTO - NOTNLM
 OT  - COVID-19
-OT  - Genomics
 OT  - Omicron
 OT  - SARS-CoV-2
-OT  - variant
+OT  - genomics
+OT  - variant of concern
 IR  - Cardenas P
-FIR - Cardenas, Paul
+FIR - Cardenas, P
 IR  - Marquez S
-FIR - Marquez, Sully
+FIR - Marquez, S
 IR  - Prado-Vivar B
-FIR - Prado-Vivar, Belen
+FIR - Prado-Vivar, B
 IR  - Guadalupe JJ
-FIR - Guadalupe, Juan Jose
+FIR - Guadalupe, J J
 IR  - Gutierrez B
-FIR - Gutierrez, Bernardo
+FIR - Gutierrez, B
 IR  - Wong MB
-FIR - Wong, Monica Becerra
+FIR - Wong, M B
 IR  - Grunauer M
-FIR - Grunauer, Michelle
+FIR - Grunauer, M
 IR  - Trueba G
-FIR - Trueba, Gabriel
+FIR - Trueba, G
 IR  - Rojas-Silva P
-FIR - Rojas-Silva, Patricio
+FIR - Rojas-Silva, P
 IR  - Barragan V
-FIR - Barragan, Veronica
+FIR - Barragan, V
 EDAT- 2022/01/13 06:00
-MHDA- 2022/01/13 06:00
+MHDA- 2022/01/13 06:01
 CRDT- 2022/01/12 06:32
 PHST- 2021/12/29 00:00 [received]
 PHST- 2022/01/04 00:00 [accepted]
-PHST- 2022/01/12 06:32 [entrez]
 PHST- 2022/01/13 06:00 [pubmed]
-PHST- 2022/01/13 06:00 [medline]
+PHST- 2022/01/13 06:01 [medline]
+PHST- 2022/01/12 06:32 [entrez]
 AID - 10.1016/j.nmni.2022.100951 [doi]
 AID - S2052-2975(22)00003-8 [pii]
-PST - aheadofprint
-SO  - New Microbes New Infect. 2022 Jan 7:100951. doi: 10.1016/j.nmni.2022.100951.
+PST - ppublish
+SO  - New Microbes New Infect. 2022 Jan;45:100951. doi: 10.1016/j.nmni.2022.100951.
+      Epub 2022 Jan 7.
 
 PMID- 34962985
 OWN - NLM
