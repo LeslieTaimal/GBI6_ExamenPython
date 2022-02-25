@@ -3,7 +3,9 @@ Nombre:Leslie Taimal
 Semestre:6to 
 20 años
 correo institucional=leslie.taimal@est.ikiam.edu.ec
+
 C.I 1728905926
+
 Lugar de nacimiento: Quito 
 
 *Características de la computadora 
