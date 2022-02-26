@@ -1,7 +1,13 @@
 # GBI6_ExamenPython
+<<<<<<< HEAD
 Nombre:Leslie Taimal
 
 Semestre:6to
+=======
+Nombre:Leslie Taimal 
+
+Semestre:6to 
+>>>>>>> 8a1c5aa6d7202a8f90570c7c19b2680eae2f46bd
 
 20 años
 
@@ -9,9 +15,16 @@ correo institucional=leslie.taimal@est.ikiam.edu.ec
 
 C.I 1728905926
 
+<<<<<<< HEAD
 Lugar de nacimiento: Quito
 
 *Características de la computadora
+=======
+Lugar de nacimiento: Quito 
+
+*Características de la computadora 
+
+>>>>>>> 8a1c5aa6d7202a8f90570c7c19b2680eae2f46bd
 
 Nombre: DESKTOP-0UFGUPB
 
@@ -63,4 +76,11 @@ Versión os= 3.10.2
 
 Explicación de la data utilizada
 
+<<<<<<< HEAD
 Del ejercicio 1 al 5 la data fue Ecuador genomics la cual se obtuvo a través del primer ejercicio el cual busca en la base de datos una palabra cualquiera debido a la funcióin realizada.
+=======
+Del ejercicio 1 al 5 la data fue Ecuador genomics la cual se obtuvo a través del primer ejercicio el cual busca en la base de datos una palabra cualquiera debido a la funcióin realizada.
+
+
+
+>>>>>>> 8a1c5aa6d7202a8f90570c7c19b2680eae2f46bd
